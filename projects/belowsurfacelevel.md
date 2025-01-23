@@ -13,9 +13,11 @@ summary: "A short PSA film I animated for my CINE 216 class."
 ---
 
 <video class="img-fluid" controls>
-  <source src="../img/BSL/ACM216-CycleFilm-BelowSurfaceLevel-Compressed.mp4" type="video/mp4">
+  <source src="../img/BSL/BelowSurfaceLevel-Final.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+
 
 “Below Surface Level” is a PSA film I animated for my final project in my Introduction to 2D Animation class (CINE 216) and calls for action to be done about environmental related issues. The requirement for the final was to include at least 5 cycle (repeating) animations in the product in which you will see many repetative motions throughout the duration.
 
@@ -33,7 +35,9 @@ Logline:
 A Native Hawaiian girl comes to terms with her home drastically changing beyond recognition through humanity’s repeated cycles of creation and waste. 
 
 Synopsis:
-n unnamed Native Hawaiian girl goes out for a swim at her old beach. While reflecting on the world, she begins to narrate about the cycles of life on Earth. Observing how nature continuously repeats itself, she yearns that humanity would one day learn how to heal itself and the planet before wreaking havoc on other environments.
+An unnamed Native Hawaiian girl goes out for a swim at her old beach. While reflecting on the world, she begins to narrate about the cycles of life on Earth.
+Observing how nature continuously repeats itself, she yearns that humanity would one day learn how to heal itself and the planet before wreaking havoc on
+other environments.
 </pre>
 
 <hr>
