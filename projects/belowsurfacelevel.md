@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/BSL/BSL-thumbnail.png
 title: "Below Surface Level"
 date: 2022
 published: true
@@ -32,4 +32,4 @@ n unnamed Native Hawaiian girl goes out for a swim at her old beach. While refle
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source:
