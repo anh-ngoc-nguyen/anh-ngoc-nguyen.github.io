@@ -16,6 +16,8 @@ summary: "A simple video game in which I made 3D models for in ICS 369."
   Your browser does not support the video tag.
 </video>
 
+<hr>
+
 “Starfarer's Abyss” was the final project for ICS 369, Computational Media Systems, a class where students were taught the basics of the Unity Game Engine and assigned to create a video game encompassing everything that was learned. It is an outerspace themed dungeon crawler where the player is contained in a 3D level, fights off enemy NPCs, and needs to explore to gain upgrades to escape.
 
 My main task for this project was to design the map space in which the player navigates through, model said design, and fully texture everything. I also designed the main protagonist 3D model and created cutscene renders for the title screen, gameover screen, and victory screen.
