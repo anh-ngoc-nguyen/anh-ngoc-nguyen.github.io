@@ -32,4 +32,4 @@ n unnamed Native Hawaiian girl goes out for a swim at her old beach. While refle
 
 <hr>
 
-Source: 
+Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
