@@ -24,7 +24,7 @@ Before drawing anything, I used Autodesk Maya to 3D model a base setting layout 
 
 <hr>
 
-Bathroom Layout:
+Modeled Bathroom Layout:
 <img class="img-fluid" src="../img/MITB/MITBScene-1.png">
 <img class="img-fluid" src="../img/MITB/MITBScene-3.png">
 
