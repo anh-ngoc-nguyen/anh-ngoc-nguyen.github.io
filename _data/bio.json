@@ -1,26 +1,24 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Anh Ngoc Nguyen",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/anh-ngoc-nguyen.png",
+    "email": "anhn67@hawaii.edu",
+    "phone": "808-397-4046",
+    "website": "https://anh-ngoc-nguyen.github.io",
+    "summary": "I am currently an undergraduate student at the University of Hawaiʻi at Mānoa double majoring in Cinematic Arts - Animation (B.A) and Computer Science - Creative Computational Media (B.A). I expect to graduate in Spring 2026",
+    "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "anh-ngoc-nguyen", "url": "http://github.com/anh-ngoc-nguyen" },
+      { "network": "linkedin", "username": "anh-nguyen-64a950214", "url": "http://linkedin.com/in/anh-nguyen-64a950214" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "3D Animation" },
+    { "name": "Virtual/Augmented Reality" },
+    { "name": "Video Game Development" },
+    { "name": "3D Graphics" },
+    { "name": "CGI/VFX" }
   ],
   "skills": [
     {
