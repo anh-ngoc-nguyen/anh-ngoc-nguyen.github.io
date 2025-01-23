@@ -47,6 +47,8 @@ Map Layouts:
   Your browser does not support the video tag.
 </video>
 
+<hr>
+
 Model Creation, Posing, & Image Rendering:
 <img class="img-fluid" src="../img/StarfarersAbyss/StarfarersAbyss-GameOverScreen.png">
 <img class="img-fluid" src="../img/StarfarersAbyss/StarfarersAbyss-WinScreen.PNG">
