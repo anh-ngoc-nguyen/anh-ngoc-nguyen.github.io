@@ -17,7 +17,7 @@ summary: "A short PSA film I animated for my CINE 216 class."
   Your browser does not support the video tag.
 </video>
 
-
+<hr>
 
 “Below Surface Level” is a PSA film I animated for my final project in my Introduction to 2D Animation class (CINE 216) and calls for action to be done about environmental related issues. The requirement for the final was to include at least 5 cycle (repeating) animations in the product in which you will see many repetative motions throughout the duration.
 
@@ -39,7 +39,3 @@ An unnamed Native Hawaiian girl goes out for a swim at her old beach. While refl
 Observing how nature continuously repeats itself, she yearns that humanity would one day learn how to heal itself and the planet before wreaking havoc on
 other environments.
 </pre>
-
-<hr>
-
-Source:
