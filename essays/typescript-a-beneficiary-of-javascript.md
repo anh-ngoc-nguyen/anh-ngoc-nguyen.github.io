@@ -10,6 +10,13 @@ labels:
   - Learning
 ---
 
+<div style="text-align: center;">
+  <img src="../img/javascript-typescript.png" alt="Javascript vs Typescript" style="width: 300px; border-radius: 15px; display: block; margin: 0 auto;">
+  <p style="margin-top: 10px;">Source: DALL·E</p>
+</div>
+
+<hr>
+
 When learning a new coding language, oftentimes than not, a person is absorbing an entirely new set of vocabulary and syntax where they have to shift between equivalent statements of each other. However in the experience of learning Typescript, it became more of a helpful extension rather than a completely new language in itself. Since Typescript is a superset of Javascript, educating myself on Typescript was a very straightforward and easy process. Much similar to how C++ is an addition to C, Typescript provided the same mechanics as Javascript but much more advanced features and clearer organization due to its static typing abilities.
 
 From a software engineering standpoint where one is creating a program for a set of ideas from scratch, Typescript in my experience provides many advantages compared to Javascript. Since Typescript incorporates static typing, the process of explicitly stating that a variable is a number, string, boolean, etcetera, this provides a clearer understanding of the values of data that is being passed around. This comes in handy especially when one is testing their program for certain errors where a desired output is being shown.
