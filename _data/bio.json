@@ -23,19 +23,19 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C#", "Java", "Javascript", "Typescript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub", "Autodesk Maya", "Blender", "Toonboom Harmony", "Storyboard Pro", "Adobe Suite", "Unity Game Engine" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Hawaiʻi at Mānoa, Honolulu, HI",
+      "area": "Cinematic Arts - Animation, Computer Science - Creative Computational Media (expected Spring, 2026)",
+      "studyType": "B.A.",
+      "startDate": "2021-09-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -43,69 +43,68 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Kate Spade New York",
+      "position": "Sales Associate",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2023-06-15",
+      "endDate": "2025-01-11",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Engaged with guests about wardrobe and lifestyle choices through product education and transactions",
+        "Outreached to clients about events and product releases to maintain consumer relations"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Papaya Clothing",
+      "position": "Sales Associate/Keyholder/Supervisor",
+      "website": "",
+      "startDate": "2021-08-01",
+      "endDate": "2023-06-10",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Delegated tasks, maintained inventory, financial transactions, opened/closed the store ",
+        "Assisted customers with needs while upkeeping store standards/policies"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Laboratory for Advanced Visualization & Applications (LAVA)",
+      "website": "https://www.lavaflow.info/",
+      "position": "Undergraduate Research Assistant",
+      "startDate": "2023-09-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Designer, videographer, and 3D modeler for various data visualization projects",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Designed graphics for various advertisements, user manual guides, and produced/edited videos for educational distribution",
+        "Assisted in creating and texturing multiple 3D models for a virtual reality app in collaboration with the Hawaii State Energy Office (HSEO)"
       ]
     }
   ],
   "awards": [
     {
+      "title": "Emerging Filmmaker Award (2)",
+      "date": "2022-2023",
+      "awarder": "University of Hawaiʻi at Mānoa School of Cinematic Arts",
+      "summary": "Award given to a student who submitted a short film into the annual School of Cinematic Arts Showcase showing a great amount of potential and ambition based on quality of effort."
+    },
+    {
+      "title": "Voices of Champions Film Contest 1st Place Winner",
+      "date": "2022",
+      "awarder": ["Learning Endeavors", "Women Fund of Hawaiʻi"]
+      "summary": "1st place winner in a local film contest dedicated to entertain, educate and energize audiences to take action in the face of climate change-induced threats to our coastal communities."
+    },
+    {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2021-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Mānoa Academic Merit Scholarship",
+      "date": "2021-Present",
+      "awarder": "University of Hawaiʻi at Mānoa Office of Admissions",
+      "summary": "Scholarship designed to recognize the academic strengths of first-year, degree-seeking students who enroll at UH Mānoa, is awarded at the start of the student’s Mānoa degree pursuit and is intended to support the student’s enrollment for 4 years."
     }
   ],
   "references": [
