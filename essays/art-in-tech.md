@@ -11,8 +11,12 @@ labels:
   - Creativity
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/creative-coding.webp">
-Souce: DALL·E
+<div style="text-align: center;">
+  <img src="../img/creative-coding.webp" alt="Creative Coding" style="width: 300px; border-radius: 15px; display: block; margin: 0 auto;">
+  <p style="margin-top: 10px;">Source: DALL·E</p>
+</div>
+
+<hr>
 
   Everyone likes to point out the technical or mathematical concepts in art whether it is through symmetrical proportions, geometric shapes, or even the process of generating computer graphics. But what benefits do the arts and creative mindset have to offer in return? This is the primary query I would like to answer for myself as I proceed through my personal journey of learning software engineering. As a creative myself, computer science has always intrigued me in terms of abstract problem solving and pattern recognition. Although many aspects of coding are well established and immutable, I believe that thinking outside the box provides a plethora of different techniques to approaching software engineering.
  
