@@ -12,7 +12,7 @@ labels:
 
 <div style="text-align: center;">
   <img src="../img/javascript-typescript.png" alt="Javascript vs Typescript" style="width: 300px; border-radius: 15px; display: block; margin: 0 auto;">
-  <p style="margin-top: 10px;">Source: DALL·E</p>
+  <p style="margin-top: 10px;">Source: ITNext</p>
 </div>
 
 <hr>
