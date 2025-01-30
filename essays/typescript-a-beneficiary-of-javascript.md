@@ -8,6 +8,8 @@ published: true
 labels:
   - Software Engineering
   - Learning
+  - Typescript
+  - Javascript
 ---
 
 <div style="text-align: center;">
