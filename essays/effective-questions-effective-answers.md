@@ -38,10 +38,10 @@ labels:
         the exact error names. In addition, this person also includes the lines of code where the error is indicated to provide further context into 
         the question they are asking.
     </p>
-    <pre>
+    <pre><code>
     echo "My variable value is: " . $my_variable_name;
     echo "My index value is: " . $my_array["my_index"];
-    </pre>
+    </code></pre>
     <p>
         Instead of inquiring about open-ended questions, this user employs a “smart” way of approaching inquiries by looking for the meaning, 
         why the sudden appearance, and how they can resolve the problem. What this individual does effectively is provide all the contextual 
