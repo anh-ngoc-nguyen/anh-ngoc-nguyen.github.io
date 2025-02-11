@@ -33,7 +33,7 @@ In my experience, I had not encountered any coding standard requirements for my 
 //  PARAMETERS:  number (int) uses the value of all the
 //               integers that needed to be printed determined.  
 //  RETURN VALUES:  1 : The number is a multiple of 3
-//                  	      0 : The number is not a multiple of 3
+//                  0 : The number is not a multiple of 3
 ***************************************************************/
 int is_multiple3(int number)
 {
