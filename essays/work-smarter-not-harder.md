@@ -13,8 +13,8 @@ labels:
 ---
 
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap;">
-  <img src="../img/raw-html-css.png" alt="Raw HTML/CSS" style="width: 700px; border-radius: 15px;">
-  <img src="../img/bootstrap5.png" alt="Bootstrap5" style="width: 700px; border-radius: 15px;">
+  <img src="../img/raw-html-css.png" alt="Raw HTML/CSS" style="width: 500px; border-radius: 15px;">
+  <img src="../img/bootstrap5.png" alt="Bootstrap5" style="width: 500px; border-radius: 15px;">
 </div>
 <p style="text-align: center; margin-top: 10px;">Left: Raw HTML/CSS, Right: Bootstrap 5</p>
 
