@@ -4,7 +4,7 @@ type: essay
 title: "A Coder’s Handwriting"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-10
-published: true
+published: false
 labels:
   - Software Engineering
   - C/C++
