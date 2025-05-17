@@ -4,7 +4,7 @@ type: essay
 title: "Work Smarter Not Harder with UI Frameworks"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-26
-published: true
+published: false
 labels:
   - Software Engineering
   - HTML/CSS
