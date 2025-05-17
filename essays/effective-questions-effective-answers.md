@@ -4,7 +4,7 @@ type: essay
 title: "Effective Questions Get You Effective Answers"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-29
-published: true
+published: false
 labels:
   - Software Engineering
   - Stack Overflow
